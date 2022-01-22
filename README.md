@@ -3,7 +3,7 @@ A personal assistant project written in Python.
 
 You should be able to:
 
-$ git clone; cd eniac; pip install -e .; eniac
+$ git clone https://github.com/FrankWilson88/eniac.git; cd eniac; pip install -e .; eniac
 
 The MIT License (MIT)
 Copyright © 2021 Army Glass
