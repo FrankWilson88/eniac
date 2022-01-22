@@ -1,0 +1,7 @@
+README.md
+setup.py
+eniac.egg-info/PKG-INFO
+eniac.egg-info/SOURCES.txt
+eniac.egg-info/dependency_links.txt
+eniac.egg-info/entry_points.txt
+eniac.egg-info/top_level.txt
