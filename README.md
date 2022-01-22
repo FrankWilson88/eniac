@@ -1,5 +1,5 @@
 # eniac
-A personal assistant project written in Python.
+A personal assistant project written in Python. It's mostly still a work in progress.
 
 You should be able to:
 
